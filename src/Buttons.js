@@ -9,7 +9,7 @@ const Buttons = ({ setquote, setauthor }) => {
   ];
   const author = [
     "-Enim",
-    "-Excup",
+    "-Excupa",
     "-Datat",
     "-Voluptate",
     "-Aliquip",
