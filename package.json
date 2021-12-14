@@ -1,5 +1,6 @@
 {
   "name": "01-random-quote",
+  "homepage":"https://AllenSun97/01-random-quote",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
